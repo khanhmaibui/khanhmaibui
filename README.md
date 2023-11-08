@@ -10,8 +10,8 @@ Let's connect on [LinkedIn](https://www.linkedin.com/in/khanh-mai-bui/) 👯
 - 😄 Pronouns: she/her/hers
 
 ## Tech Stack
-- Languages: Java, C/C++, Python, SQL, Kotlin, R, HTML, CSS, JavaScript, Bash, Ruby
-- Tools/Technologies: Android SDK, MSSQL, Git, SQLite, Azure DevOps, Room, R Studio, Ruby on Rails, React
+- **Languages**: Java, C/C++, Python, SQL, Kotlin, R, HTML, CSS, JavaScript, Bash, Ruby
+- **Tools**: Android SDK, MSSQL, Git, SQLite, Azure DevOps, Room, R Studio, Ruby on Rails, React
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-@khanhmaibui-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khanh-mai-bui/)](https://www.linkedin.com/in/khanh-mai-bui/)
