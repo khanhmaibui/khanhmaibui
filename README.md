@@ -12,6 +12,7 @@ Let's connect on [LinkedIn](https://www.linkedin.com/in/khanh-mai-bui/).
 [![Linkedin Badge](https://img.shields.io/badge/-@khanhmaibui-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bonniepeng/)](https://www.linkedin.com/in/khanh-mai-bui/)
 [![Outlook Badge](https://img.shields.io/badge/-khanh_bui-84D7FF?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:khanh_bui@sfu.ca)](mailto:khanh_bui@sfu.ca)
 
+##
 ![Kaylee's GitHub stats](https://github-readme-stats.vercel.app/api?username=khanhmaibui&hide=stars,issues&count_private=true&show_icons=true&theme=radical)
 
 <!--
