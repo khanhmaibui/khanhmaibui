@@ -3,7 +3,7 @@
 I'm a current **Computer Science and Business** student at **Simon Fraser University**!
 Let's connect on [LinkedIn](https://www.linkedin.com/in/khanh-mai-bui/) 👯
 
-## About me
+## About Me
 - 🔭 I’m currently working on my Android app project, [GlowMe!](https://github.com/khanhmaibui/glowme)
 - 🌱 I love mathematics! I'm constantly amazed by the endless opportunities for learning and exploration it offers 🧮
 - ⚡ Fun fact: Cooking is my go-to method for relaxation and stress relief 🧑‍🍳
