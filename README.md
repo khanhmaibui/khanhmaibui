@@ -1,7 +1,7 @@
 ### Hello there 👋 I'm Kaylee! 
 
 I'm a current **Computer Science and Business** student at **Simon Fraser University**!
-Let's connect on [LinkedIn](https://www.linkedin.com/in/khanh-mai-bui/).
+Let's connect on [LinkedIn](https://www.linkedin.com/in/khanh-mai-bui/) 👯
 
 ## About me
 - 🔭 I’m currently working on my Android app project, [GlowMe!](https://github.com/khanhmaibui/glowme)
