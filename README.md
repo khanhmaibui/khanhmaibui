@@ -14,7 +14,7 @@ Let's connect on [LinkedIn](https://www.linkedin.com/in/khanh-mai-bui/) 👯
 
 ##
 ![Kaylee's Github Stats](https://github-readme-stats.vercel.app/api?username=khanhmaibui&hide=stars,issues&count_private=true&show_icons=true&theme=radical&custom_title=Kaylee%27s%20GitHub%20Stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khanhmaibui&repo=glowme)]
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khanhmaibui&repo=glowme&show_icons=true&theme=radical)
 <!--
 **khanhmaibui/khanhmaibui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
