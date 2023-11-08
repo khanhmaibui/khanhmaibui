@@ -1,4 +1,4 @@
-### Hello there 👋 I'm Kaylee! 
+# Hello there 👋 I'm Kaylee! 
 
 I'm a current **Computer Science and Business** student at **Simon Fraser University**!
 Let's connect on [LinkedIn](https://www.linkedin.com/in/khanh-mai-bui/) 👯
