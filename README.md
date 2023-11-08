@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hello there 👋 I'm Kaylee!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khanhmaibui)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=tokyonight)
+
+[![Kaylee's GitHub stats](https://github-readme-stats.vercel.app/api?username=khanhmaibui)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=tokyonight)]
+
 <!--
 **khanhmaibui/khanhmaibui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
