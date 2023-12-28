@@ -9,9 +9,10 @@ Let's connect on [LinkedIn](https://www.linkedin.com/in/khanh-mai-bui/) 👯
 - ⚡ Fun fact: Cooking is my go-to method for relaxation and stress relief 🧑‍🍳
 - 😄 Pronouns: she/her/hers
 
-## Tech stack
+## Core skills
 - **Languages**: Java, C/C++, Python, SQL, Kotlin, R, HTML, CSS, JavaScript, Bash, Ruby
-- **Tools**: Android SDK, MSSQL, Git, SQLite, Azure DevOps, Room, R Studio, Ruby on Rails, React
+- **Cloud Technologies**: Firebase, Microsoft Azure DevOps
+- **Tools**: Android SDK, Django, MSSQL, SQLite, Git, R Studio, Ruby on Rails
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-@khanhmaibui-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khanh-mai-bui/)](https://www.linkedin.com/in/khanh-mai-bui/)
