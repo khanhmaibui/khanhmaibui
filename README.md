@@ -4,7 +4,7 @@ I'm a current **Computer Science and Business** student at **Simon Fraser Univer
 Let's connect on [LinkedIn](https://www.linkedin.com/in/khanh-mai-bui/) 👯
 
 ## About me
-- 🔭 I’m currently working on my personal website, [check it out!](https://github.com/khanhmaibui/khanhmaibui.github.io)
+- 🔭 I’m currently working on my personal website, check it out [here](https://github.com/khanhmaibui/khanhmaibui.github.io)!
 - 🌱 I love mathematics! I'm constantly amazed by the endless opportunities for learning and exploration it offers 🧮
 - ⚡ Fun fact: Cooking is my go-to method for relaxation and stress relief 🧑‍🍳
 - 😄 Pronouns: she/her/hers
