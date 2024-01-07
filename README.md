@@ -20,6 +20,7 @@ Let's connect on [LinkedIn](https://www.linkedin.com/in/khanh-mai-bui/) 👯
 
 ##
 ![Kaylee's Github Stats](https://github-readme-stats.vercel.app/api?username=khanhmaibui&hide=issues,contribs&count_private=true&show_icons=true&theme=radical&custom_title=Kaylee%27s%20GitHub%20Stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khanhmaibui&layout=compact&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **khanhmaibui/khanhmaibui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
