@@ -1,4 +1,4 @@
-# Hello there 👋 I'm Kaylee! 
+# Hello there 👋 I'm Mai Khanh! 
 
 I'm a current **Computer Science and Business** student at **Simon Fraser University**!
 Let's connect on [LinkedIn](https://www.linkedin.com/in/khanh-mai-bui/) 👯
@@ -19,7 +19,7 @@ Let's connect on [LinkedIn](https://www.linkedin.com/in/khanh-mai-bui/) 👯
 [![Outlook Badge](https://img.shields.io/badge/-khanh_bui-84D7FF?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:khanh_bui@sfu.ca)](mailto:khanh_bui@sfu.ca)
 
 ##
-![Kaylee's Github Stats](https://github-readme-stats.vercel.app/api?username=khanhmaibui&hide=issues,contribs&count_private=true&show_icons=true&theme=radical&custom_title=Kaylee%27s%20GitHub%20Stats)
+![Mai Khanh's Github Stats](https://github-readme-stats.vercel.app/api?username=khanhmaibui&hide=issues,contribs&count_private=true&show_icons=true&theme=radical&custom_title=Mai%20Khanh%27s%20GitHub%20Stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khanhmaibui&layout=compact&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
