@@ -1,7 +1,7 @@
 # Hello there 👋 I'm Mai Khanh Bui! 
 
 I'm a current **Computer Science and Business** student at **Simon Fraser University**!
-Let's connect on [LinkedIn](https://www.linkedin.com/in/khanh-mai-bui/) 👯
+Let's connect on [LinkedIn](https://www.linkedin.com/in/mai-khanh-bui/) 👯
 
 ## About Me
 - 🔭 I’m currently working on my personal website, check it out [here](https://github.com/khanhmaibui/khanhmaibui.github.io)!
