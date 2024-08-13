@@ -1,4 +1,4 @@
-# Hello there 👋 I'm Khanh! 
+# Hello there 👋 I'm Mai Khanh Bui! 
 
 I'm a current **Computer Science and Business** student at **Simon Fraser University**!
 Let's connect on [LinkedIn](https://www.linkedin.com/in/khanh-mai-bui/) 👯
@@ -12,7 +12,7 @@ Let's connect on [LinkedIn](https://www.linkedin.com/in/khanh-mai-bui/) 👯
 ## Core Skills
 - **Languages**: Java, C/C++, Python, SQL, Kotlin, R, HTML, CSS, JavaScript, Bash, Ruby
 - **Cloud Technologies**: Firebase, Microsoft Azure DevOps
-- **Tools**: Android SDK, Django, MSSQL, SQLite, Git, R Studio, Ruby on Rails
+- **Tools**: Android SDK, Django, MSSQL, SQLite, Git, Ruby on Rails
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-@khanhmaibui-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khanh-mai-bui/)](https://www.linkedin.com/in/khanh-mai-bui/)
