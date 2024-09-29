@@ -19,8 +19,8 @@ Let's connect on [LinkedIn](https://www.linkedin.com/in/mai-khanh-bui/) 👯
 [![Outlook Badge](https://img.shields.io/badge/-mai_khanh_bui-84D7FF?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:khanh_bui@sfu.ca)](mailto:khanh_bui@sfu.ca)
 
 ##
-![Khanh's Github Stats](https://github-readme-stats.vercel.app/api?username=khanhmaibui&hide=issues,contribs&count_private=true&show_icons=true&theme=radical&custom_title=Mai%20Khanh%27s%20GitHub%20Stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khanhmaibui&layout=compact&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+![Khanh's Github Stats](https://github-readme-stats.vercel.app/api?username=maikhanhbui&hide=issues,contribs&count_private=true&show_icons=true&theme=radical&custom_title=Mai%20Khanh%27s%20GitHub%20Stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maikhanhbui&layout=compact&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **khanhmaibui/khanhmaibui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
